@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224574075126",
+    "project_id": "splashandpop",
+    "storage_bucket": "splashandpop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224574075126:android:1d62d922eb55c4e4ffbcd7",
+        "android_client_info": {
+          "package_name": "com.StriringMind.splashandpop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224574075126-ka1ohivau26bp9qp9u0998c267jhk6vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_XdmqiJTex7vU0x4bRwUIYpCXQUtjzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224574075126-ka1ohivau26bp9qp9u0998c267jhk6vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
